@@ -1,0 +1,5 @@
+{
+  "name": "@smoke/api",
+  "private": true,
+  "scripts": { "start": "node server.js" }
+}

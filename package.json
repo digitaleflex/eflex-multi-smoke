@@ -1,0 +1,5 @@
+{
+  "name": "eflex-multi-smoke",
+  "private": true,
+  "workspaces": ["apps/*"]
+}
